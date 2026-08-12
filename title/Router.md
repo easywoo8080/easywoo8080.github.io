@@ -1,6 +1,6 @@
 ---
 title: Router
-layout: Router1
+layout: home
 ---
 
 # Router
